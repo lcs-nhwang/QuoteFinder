@@ -64,11 +64,11 @@
 		C26BFE632D788AD1009CD4A2 /* QuoteFinder */ = {
 			isa = PBXGroup;
 			children = (
+				C26BFE622D788AD1009CD4A2 /* QuoteFinderApp.swift */,
 				C26BFE6A2D788AE3009CD4A2 /* Models */,
 				C26BFE692D788ADD009CD4A2 /* ViewModels */,
 				C26BFE682D788AD5009CD4A2 /* Views */,
 				C26BFE5F2D788AD1009CD4A2 /* Preview Content */,
-				C26BFE622D788AD1009CD4A2 /* QuoteFinderApp.swift */,
 			);
 			path = QuoteFinder;
 			sourceTree = "<group>";
